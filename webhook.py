@@ -178,4 +178,3 @@ if __name__ == '__main__':
     #schedule_invoices()
 
     t = schedule_invoices()
-    1
