@@ -5,12 +5,7 @@ from datetime import date, datetime, timedelta
 from faker import Faker
 
 private_key_content = """
-
------BEGIN EC PRIVATE KEY-----
-MHQCAQEEIAi73GnK6qLiMCiIZ+gv5Z71yPlpun9RJUE6UsNhlGA4oAcGBSuBBAAK
-oUQDQgAE57LHFejyGZPMzdQkEDOpa+ssw6GPdJwz0Ir6b+0l2kjf9JT1KQQuAINi
-siVverC1eKRpUTcLEBtB/JdQ4OBewA==
------END EC PRIVATE KEY-----
+Sua Private Key
 
 """
 
